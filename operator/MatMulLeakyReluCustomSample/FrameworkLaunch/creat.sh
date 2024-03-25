@@ -1,0 +1,1 @@
+~/Ascend/ascend-toolkit/latest/python/site-packages/bin/msopgen gen -i matmul_leakyrelu_custom.json -f tf -c ai_core-ascend910 -lan cpp -out MatmulLeakyReluCustom

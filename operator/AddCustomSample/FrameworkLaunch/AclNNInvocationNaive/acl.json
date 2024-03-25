@@ -1,0 +1,9 @@
+{
+    "dump":{
+        "dump_path":"/tmp",
+        "dump_mode": "all",
+        "dump_debug": "off",
+        "dump_op_switch": "on"
+     }
+}
+
